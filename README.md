@@ -3,7 +3,7 @@ Beadandó projekt
 
 Hallgató neve: Fónad Ferenc Dávid
 
-Neptun-kód: B5C7RP
+Neptun kód: B5C7RP
 
 Feladat leírása:
 A program egy céges flotta olajcsere-nyilvántartó asztali alkalmazás, amely grafikus felületen keresztül teszi lehetővé a cégautók olajcsere-periódusainak, kilométeróra-állásainak és dátumainak rögzítését, listázását, valamint CSV fájlba történő mentését.
