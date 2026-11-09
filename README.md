@@ -2,6 +2,7 @@
 Beadandó projekt
 
 Hallgató neve: Fónad Ferenc Dávid
+
 Neptun-kód: B5C7RP
 
 Feladat leírása:
