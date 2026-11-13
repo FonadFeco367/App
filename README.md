@@ -1,7 +1,7 @@
 # App
 Beadandó projekt
 
-Hallgató neve: Fónad Ferenc Dávid
+Név: Fónad Ferenc Dávid
 
 Neptun kód: B5C7RP
 
